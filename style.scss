@@ -1,0 +1,14 @@
+*{
+    font-family:Raleway ;
+}
+@font-face {
+    font-family: Raleway;
+    src: url(./assets/Raleway/static/Raleway-Medium.ttf);
+}
+.background1{
+    width: 101.5%;
+    height: 90vh;
+    background-image: url(./assets/Header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
